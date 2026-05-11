@@ -1,0 +1,15 @@
+# Dataset folders
+dataset/
+
+# Generated model artifacts and predictions
+outputs/
+*.pt
+*.pth
+
+# Python/cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS/editor noise
+.DS_Store
